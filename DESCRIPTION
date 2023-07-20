@@ -1,0 +1,31 @@
+Package: ggexplorer
+Title: Create plots with minimal effort using ggplot2
+Version: 0.0.0.9000
+Authors@R: 
+    person("Francisco", "Zambrano", , "first.last@example.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: The idea of ggexplorer is to create plots with minimal effort using {ggplot2} for the purpose of exploring and analyzing data.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Imports: 
+    dplyr,
+    ggplot2,
+    ggpubr,
+    ggthemes,
+    lubridate,
+    magrittr,
+    moments,
+    plotly,
+    readr,
+    rlang,
+    scales,
+    stats,
+    tibble,
+    tidyr,
+    tidyselect,
+    tidytext,
+    timetk
+Suggests:
+    gapminder
