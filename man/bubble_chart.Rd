@@ -13,7 +13,7 @@ bubble_chart(
   facet_var = NULL,
   scale_size = c(0.5, 20),
   alpha = 0.8,
-  stroke = 1.5,
+  stroke = 0,
   trans_x = "identity",
   trans_y = "identity",
   title = NULL,
