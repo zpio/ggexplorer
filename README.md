@@ -9,7 +9,7 @@ The idea of ​​{ggexplorer} is to create plots with minimal effort using {ggp
 Install the development version from GitHub:
 
 ```r
-remotes::install_github("zpio/tidyexplorer")
+remotes::install_github("zpio/ggexplorer")
 ```
 
 ## Getting Started
